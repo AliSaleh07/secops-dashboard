@@ -1,1 +1,0 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/components/findingdetailmodal.tsx","./src/components/findingstable.tsx","./src/components/header.tsx","./src/components/metricscards.tsx","./src/components/severitychart.tsx","./src/services/apiclient.ts","./src/services/mockdata.ts","./src/types/index.ts"],"version":"5.9.3"}
